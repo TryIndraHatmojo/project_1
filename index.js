@@ -9,4 +9,4 @@ async function getWheater(city){
     console.log(data.weather[0].main+", "+data.weather[0].description)
 }
 
-getWheater("surabaya")
+getWheater("sorong")
